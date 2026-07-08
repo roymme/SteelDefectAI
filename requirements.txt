@@ -12,3 +12,4 @@ pypdf
 python-dotenv
 Pillow
 requests
+tensorflow
